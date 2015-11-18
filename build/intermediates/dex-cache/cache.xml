@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Abraham\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.6.5\47d6744474ff276a8f92e92d22d7c956f5c832f0\gdx-backend-android-1.6.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="47d6744474ff276a8f92e92d22d7c956f5c832f0">
+        <dex dex="C:\Users\Abraham\AndroidStudioProjects\AbrahamScratch\Tri-ForceePause\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.6.5-25e01d0b215f79459ade308991b25346c76a42d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abraham\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.6.5\b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d\gdx-1.6.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d">
+        <dex dex="C:\Users\Abraham\AndroidStudioProjects\AbrahamScratch\Tri-ForceePause\android\build\intermediates\pre-dexed\debug\gdx-1.6.5-d65dc4da7865bfef8e7f9fcf53b3029ec9a374a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abraham\AndroidStudioProjects\AbrahamScratch\Tri-ForceePause\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c69dafed83125dd5f794f50d5061de4c82a7a5e2">
+        <dex dex="C:\Users\Abraham\AndroidStudioProjects\AbrahamScratch\Tri-ForceePause\android\build\intermediates\pre-dexed\debug\core-1.0-601446ab6b82a5aece71cf68e0006df9575232b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abraham\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.6.5\d81b49d6bc9aa29518fcaa7db9474fe7405fa324\gdx-box2d-1.6.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d81b49d6bc9aa29518fcaa7db9474fe7405fa324">
+        <dex dex="C:\Users\Abraham\AndroidStudioProjects\AbrahamScratch\Tri-ForceePause\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.6.5-6ae630b1d769eb7eab6d334faf9d698abae41351.jar" />
+    </item>
+
+</items>
